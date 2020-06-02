@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-06-02T17:06:03.128Z" agent="5.0 (Windows)" etag="lLEXIX0ZcLt-kS7PMZ3W" version="13.1.13" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-02T17:09:01.477Z" agent="5.0 (Windows)" etag="Lw6fpdI7t9g0Dxtw3QMT" version="13.1.13" type="github">
   <diagram id="5YTd6HPiCCN_LFdmrXuX" name="Page-1">
-    <mxGraphModel dx="1358" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="937" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -213,6 +213,43 @@
         </mxCell>
         <mxCell id="yVRYnLURutYKrNPXLrog-38" value="&lt;font style=&quot;font-size: 25px&quot;&gt;Base Design: Triple Stack &lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="130" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yVRYnLURutYKrNPXLrog-39" value="&lt;div&gt;Closed&lt;/div&gt;&lt;div&gt;Room&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="272.87" y="869.5" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yVRYnLURutYKrNPXLrog-40" value="&lt;div&gt;Open&lt;/div&gt;&lt;div&gt;Room&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="464.87" y="894.5" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yVRYnLURutYKrNPXLrog-41" value="Balcony" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="451.5" y="719" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yVRYnLURutYKrNPXLrog-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.597;entryY=0.983;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yVRYnLURutYKrNPXLrog-42" target="4vxbuee-sdpMc3VaT_km-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yVRYnLURutYKrNPXLrog-42" value="Closed Stairs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="389" y="710" width="72" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yVRYnLURutYKrNPXLrog-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yVRYnLURutYKrNPXLrog-44" target="4vxbuee-sdpMc3VaT_km-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="334.8699999999999" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yVRYnLURutYKrNPXLrog-44" value="Open Stairs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="298.87" y="1060" width="72" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yVRYnLURutYKrNPXLrog-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.41;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yVRYnLURutYKrNPXLrog-46" target="4vxbuee-sdpMc3VaT_km-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yVRYnLURutYKrNPXLrog-46" value="Closed Roof" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="900.25" width="72" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yVRYnLURutYKrNPXLrog-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yVRYnLURutYKrNPXLrog-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="904.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yVRYnLURutYKrNPXLrog-48" value="Open Roof" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="674.87" y="894.5" width="72" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
